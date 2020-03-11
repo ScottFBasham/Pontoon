@@ -161,6 +161,7 @@ namespace Pontoon
             playerCard[position].Text = deck[packIndex].display;
             playerPic[position].Visible = true;
             playerCard[position].Visible = true;
+            //New comment
         }
     }
 }
